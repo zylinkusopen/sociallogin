@@ -11,9 +11,13 @@
 5）通过在第四步获取到的id信息，向我们的接口查询数据 http://auth.zylinkus.com/token.php?s=key信息&id=id信息. 返回的数据需要使用base64_decode处理
 
 
-#测试网址
+ **#测试网址** 
+
 http://auth.zylinkus.com
 
+ **#信息提示** 
+
+现我们正在开发测试instagram平台的第三方面登录操作，现需10位 instagram 用户用做为sandbox user测试完成应用上线操作，如对这块感兴趣的同学可以给我们来邮件 （steven@zylinkus.com）
 
 通过上述几步，我们简单的完成了多个登录方式的接入处理，如有其他的问题，请到 https://gitee.com/mote001/oauth/issues 提交
 
