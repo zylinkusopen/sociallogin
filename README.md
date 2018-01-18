@@ -13,7 +13,7 @@
 
  **#测试网址** 
 
-http://auth.zylinkus.com
+https://www.mote001.com/user/login.html
 
  **#信息提示** 
 
